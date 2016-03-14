@@ -17,5 +17,5 @@ Quê quán: Đội 3 - Yên Mỹ - Dương Quang - Gia Lâm - Hà Nội<br></p>
 Hiện tại đang nghiên cứu về mô hình Gluster trên CentOS 6.
 
 <img name="gluster" src="http://www.gluster.org/community/documentation/images/2/21/Distributed-Replicated-volume.png" alt="Distributed Replicated Glusterfs Volume" height="50%" width="50%"> <br>
-<a href="#top">Lên đầu trang</a>
+<a href="#top">Lên đầu trang</a><br>
 Hết.
