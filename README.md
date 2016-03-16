@@ -1,5 +1,5 @@
 # daohuyhoang
-Introduction about author<br>
+Introduction to about author<br>
 
 <h3 name="top">Mục lục</h3>
 <ol>
@@ -18,5 +18,7 @@ Hiện tại đang nghiên cứu về mô hình Gluster trên CentOS 6.
 
 <img name="gluster" src="http://www.gluster.org/community/documentation/images/2/21/Distributed-Replicated-volume.png" alt="Distributed Replicated Glusterfs Volume" height="50%" width="50%"> <br>
 <a href="#top">Lên đầu trang</a><br>
+`````
 Trang này được viết theo các thẻ chuẩn <a href="http://www.w3schools.com/html/default.asp" target="_blank">HTML</a><br>.
+``````
 Hết.
