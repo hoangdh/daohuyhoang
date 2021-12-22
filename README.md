@@ -13,7 +13,7 @@
 - CCNA
 - LPI 1 & 2
 
-** Lưu ý:** Chỉ có bằng tốt nghiệp THPT
+**Lưu ý:** Chỉ có bằng tốt nghiệp THPT
 
 ## Kỹ năng
  - Hệ thống Linux
